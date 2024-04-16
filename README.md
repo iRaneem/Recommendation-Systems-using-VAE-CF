@@ -1,6 +1,4 @@
 # Recommendation Systems using (VAE-CF)
-in this project we have explore the following research paper, https://arxiv.org/pdf/1802.05814v1.pdf implement its findings, and further improve upon the proposed methodology. Through our implementation and enhancements, we strive to contribute to the advancement of personalized recommendations and push the boundaries of existing techniques.
-## Recommendation Systems using VAE-CF
 
 In this project, we have explored the research paper titled [Variational Autoencoders for Collaborative Filtering](https://arxiv.org/pdf/1802.05814v1.pdf) and implemented its findings. We aim to further improve upon the proposed methodology to contribute to the advancement of personalized recommendations and push the boundaries of existing techniques.
 
